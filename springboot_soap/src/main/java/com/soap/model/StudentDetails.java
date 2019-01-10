@@ -6,7 +6,7 @@
 //
 
 
-package com.in28minutes.students;
+package com.soap.model;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
